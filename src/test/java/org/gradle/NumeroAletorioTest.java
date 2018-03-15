@@ -47,7 +47,6 @@ public class NumeroAletorioTest {
 		
 
 		// assert
-		//Assert.assertEquals(0, resultado);
 		Assert.assertEquals(4, resultado);
 
 	}
